@@ -127,15 +127,15 @@ Improved market competitiveness
 
 Skills & Tools Used
 
-Data Cleaning & Validation
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Regression Modeling
-Linear Regression
-Random Forest Regression
-Hyperparameter Tuning (GridSearchCV)
-Model Evaluation (RMSE)
-Python (Pandas, NumPy, Scikit-learn)
+Data Cleaning & Validation,
+Feature Engineering,
+Exploratory Data Analysis (EDA),
+Regression Modeling,
+Linear Regression,
+Random Forest Regression,
+Hyperparameter Tuning (GridSearchCV),
+Model Evaluation (RMSE),
+Python (Pandas, NumPy, Scikit-learn),
 Business Insight Communication
 
 Project Outcome (Summary)
