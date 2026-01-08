@@ -3,7 +3,9 @@
 Summary
 
 RealAgents is a real estate company operating in a metropolitan area and selling multiple types of residential properties. Some properties take longer to sell and often require price reductions, reducing competitiveness and increasing holding costs.
-The objective of this project was to predict house sale prices based on property characteristics, enabling RealAgents to optimize listing prices and reduce time on the market. Using a Baseline vs. Comparison modeling approach, we developed and evaluated two predictive models:
+The objective of this project was to predict house sale prices based on property characteristics, enabling RealAgents to optimize listing prices and reduce time on the market. 
+
+Using a Baseline vs. Comparison modeling approach, I developed and evaluated two predictive models:
 
 Baseline Model: Linear Regression
 Comparison Model: Random Forest Regressor (with hyperparameter tuning)
